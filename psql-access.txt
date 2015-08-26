@@ -1,0 +1,1 @@
+datomic:sql://<DB-NAME>?jdbc:postgresql://localhost:5432/datomic?user=datomic&password=Z03Luk3G
